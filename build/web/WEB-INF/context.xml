@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/InventarioLibros-MVC">
+    <!-- pool de conexiones -->
+    <!--<Resource name="jdbc/mysql" auth="Container" type="javax.sql.DataSource"
+                maxActive="20" maxIdle="10" maxWait="5000"
+                username="nic" password="engineer" driverClassName="com.mysql.jdbc.Driver"
+                url="jdbc:mysql://localhost:3306/inventariolibros"/>-->
+</Context>
+
+ 
+ 
